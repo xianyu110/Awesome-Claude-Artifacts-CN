@@ -1,4 +1,4 @@
-# claudeartifactsShare
+# claude artifacts Share
 
 欢迎来到 claudeartifacts共享仓库！这个空间专门收集和展示由 Claude（Anthropic 的 AI 助手）创建的有趣文物。
 
